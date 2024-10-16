@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formula 1 WebAPI</title>
+    <script
+      defer
+      src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/js/all.min.js"
+    ></script>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    />
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.6.0/axios.min.js"></script>
+
+    <script type="module" src="Scripts/index.js"></script>
+    <link rel="stylesheet" href="css/index.css" />
+  </head>
+  <body>
+    <header>
+      <nav class="navbar navbar-expand-lg navbar-light bg-danger">
+        <div class="container-fluid">
+          <div class="navbar-brand">
+            <i class="fa-solid fa-flag-checkered icon"></i>
+          </div>
+          <ul class="navbar-nav justify-content-end">
+            <li>
+              <a
+                class="nav-link p-2 text-light link-light"
+                href="http://localhost:5167/drivers"
+                >Drivers: 20</a
+              >
+            </li>
+            <li>
+              <a
+                class="nav-link p-2 text-light link-light"
+                href="http://localhost:5167/teams"
+                >Teams: 10</a
+              >
+            </li>
+            <li>
+              <a
+                class="nav-link p-2 text-light link-light"
+                href="http://localhost:5167/races"
+                >Races: 20</a
+              >
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section>
+        <article>
+          <h1 class="title">The Formula 1 WebAPI</h1>
+          <p class="content">
+            This documentation is an overview of the Formula 1 API followed by
+            some information about each DB table.
+          </p>
+        </article>
+
+        <!-- Drivers Endpoints -->
+        <article class="box">
+          <h5>Drivers</h5>
+          <ul class="list-unstyled">
+            <li>
+              <a href="http://localhost:5167/drivers">/drivers</a> - Get
+              information about all drivers.
+            </li>
+            <li>
+              <a href="http://localhost:5167/drivers/id">/drivers/{id}</a> - Get
+              a single driver by Id.
+            </li>
+            <li>
+              <a href="http://localhost:5167/images/image">/images/image</a>
+              - Get image by typing name of image after /images.
+            </li>
+          </ul>
+
+          <!-- Driver Information -->
+          <div class="mt-2">
+            <h5>Driver information:</h5>
+            <ul class="list-unstyled">
+              <li>Id: Int</li>
+              <li>Name: String</li>
+              <li>Age: Int</li>
+              <li>Image: String</li>
+              <li>Nationality: String</li>
+            </ul>
+          </div>
+        </article>
+
+        <!-- Teams endpoints -->
+        <article class="box">
+          <h5>Teams</h5>
+          <ul class="list-unstyled">
+            <li>
+              <a href="http://localhost:5167/teams">/teams</a> - Get all teams.
+            </li>
+            <li>
+              <a href="http://localhost:5167/teams/manufacturer"
+                >/teams/{manufacturer}</a
+              >
+              - Get team by manufacturer name.
+            </li>
+
+            <li>
+              <a href="http://localhost:5167/images/image">/images/image</a>
+              - Get team image by typing name of the image after /images.
+            </li>
+          </ul>
+
+          <!-- Team Information -->
+          <div class="mt-2">
+            <h5>Teams information:</h5>
+            <ul class="list-unstyled">
+              <li>Id: Int</li>
+              <li>Manufacturer: String</li>
+              <li>Image: String</li>
+              <li>Driver1: String</li>
+              <li>Driver2: String</li>
+            </ul>
+          </div>
+        </article>
+
+        <!-- Races endpoints -->
+        <article class="box">
+          <h5>Races</h5>
+          <ul class="list-unstyled">
+            <li>
+              <a href="http://localhost:5167/races">/races</a> - Get information
+              about all races.
+            </li>
+          </ul>
+
+          <!-- Races Information -->
+          <div class="mt-2">
+            <h5>Races information:</h5>
+            <ul class="list-unstyled">
+              <li>Id: Int</li>
+              <li>WinnerName: String</li>
+              <li>WinnerTime: Int</li>
+              <li>GrandPrix: String</li>
+              <li>NumberOfLaps: Int</li>
+            </ul>
+          </div>
+        </article>
+      </section>
+
+      <section id="output-section"></section>
+    </main>
+
+    <footer class="bg-danger text-center p-3 mt-3">
+      <div class="container">
+        <span class="text-white mb-0 small"> © 2023 Copyright: 2103 </span>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,165 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\Scripts\\index.js",
+      "PackagePath": "staticwebassets\\Scripts\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\AlexanderAlbon.jpg",
+      "PackagePath": "staticwebassets\\images\\AlexanderAlbon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\McLaren.jpg",
+      "PackagePath": "staticwebassets\\images\\McLaren.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\alpha.png",
+      "PackagePath": "staticwebassets\\images\\alpha.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\astonmartin.jpg",
+      "PackagePath": "staticwebassets\\images\\astonmartin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\bwt.jpg",
+      "PackagePath": "staticwebassets\\images\\bwt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\carlosSainz.png",
+      "PackagePath": "staticwebassets\\images\\carlosSainz.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\danielRicciardo.png",
+      "PackagePath": "staticwebassets\\images\\danielRicciardo.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\estebanOcon.png",
+      "PackagePath": "staticwebassets\\images\\estebanOcon.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\fernandoAlonso.png",
+      "PackagePath": "staticwebassets\\images\\fernandoAlonso.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\ferrari.jpg",
+      "PackagePath": "staticwebassets\\images\\ferrari.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\georgeRussell.png",
+      "PackagePath": "staticwebassets\\images\\georgeRussell.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\kevin.png",
+      "PackagePath": "staticwebassets\\images\\kevin.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\lanceStroll.png",
+      "PackagePath": "staticwebassets\\images\\lanceStroll.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\landoNorris.png",
+      "PackagePath": "staticwebassets\\images\\landoNorris.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\leclerc.jpg",
+      "PackagePath": "staticwebassets\\images\\leclerc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\lewisHamilton.jpg",
+      "PackagePath": "staticwebassets\\images\\lewisHamilton.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\loganSargeant.jpg",
+      "PackagePath": "staticwebassets\\images\\loganSargeant.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\maxverstappen.png",
+      "PackagePath": "staticwebassets\\images\\maxverstappen.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\mercedes.jpg",
+      "PackagePath": "staticwebassets\\images\\mercedes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\moneygram.jpg",
+      "PackagePath": "staticwebassets\\images\\moneygram.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\nicoHulkenberg.jpg",
+      "PackagePath": "staticwebassets\\images\\nicoHulkenberg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\oracleRB.jpg",
+      "PackagePath": "staticwebassets\\images\\oracleRB.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\oscarPiastri.png",
+      "PackagePath": "staticwebassets\\images\\oscarPiastri.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\pierreGasley.jpg",
+      "PackagePath": "staticwebassets\\images\\pierreGasley.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\redbull.png.png",
+      "PackagePath": "staticwebassets\\images\\redbull.png.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\romeo.jpg",
+      "PackagePath": "staticwebassets\\images\\romeo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\sergioPerez.png",
+      "PackagePath": "staticwebassets\\images\\sergioPerez.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\team1.png",
+      "PackagePath": "staticwebassets\\images\\team1.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\team2.png",
+      "PackagePath": "staticwebassets\\images\\team2.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\valtteri.png",
+      "PackagePath": "staticwebassets\\images\\valtteri.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\williams.jpg",
+      "PackagePath": "staticwebassets\\images\\williams.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\yuki.png",
+      "PackagePath": "staticwebassets\\images\\yuki.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\images\\zhou.jpg",
+      "PackagePath": "staticwebassets\\images\\zhou.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bruker\\Desktop\\DS3103 Webutvikling Exam\\Formula1API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Formula1API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Formula1API.props",
+      "PackagePath": "build\\Formula1API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Formula1API.props",
+      "PackagePath": "buildMultiTargeting\\Formula1API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Formula1API.props",
+      "PackagePath": "buildTransitive\\Formula1API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

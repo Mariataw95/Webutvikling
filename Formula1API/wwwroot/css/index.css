@@ -1,0 +1,37 @@
+/*
+Style for the webapi
+*/
+
+.box {
+  border-top: 6px solid rgba(220, 53, 69, 255);
+  border-right: 6px solid rgba(220, 53, 69, 255);
+  border-top-right-radius: 8%;
+  padding: 4%;
+  margin: 2% auto;
+  background-color: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  width: 40%;
+}
+
+.nav-link {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.title {
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 1%;
+}
+.content {
+  text-align: center;
+  font-weight: lighter;
+}
+
+.icon {
+  transform: rotate(20deg);
+  color: white;
+  width: 60px;
+  height: 30px;
+}
